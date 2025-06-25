@@ -1,0 +1,22 @@
+.footer {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #282c34;
+    color: #fff;
+    transition: .4s;
+}
+
+.footer span {
+    font-weight: bold;
+    color: #61dafb;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer a:hover { color: #bbb; }
